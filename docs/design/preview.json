@@ -1,0 +1,240 @@
+{
+  "nodes": [
+    {
+      "id": "1454:23392",
+      "name": "Full Preview 7",
+      "type": "FRAME",
+      "bounds": {
+        "x": 13865,
+        "y": 3880,
+        "width": 2112,
+        "height": 10000
+      },
+      "parentId": "527:1103",
+      "childCount": 3
+    },
+    {
+      "id": "564:19530",
+      "name": "Full Preview 6",
+      "type": "FRAME",
+      "bounds": {
+        "x": 11453,
+        "y": 3880,
+        "width": 2112,
+        "height": 5000
+      },
+      "parentId": "527:1103",
+      "childCount": 1
+    },
+    {
+      "id": "564:19529",
+      "name": "Full Preview 5",
+      "type": "FRAME",
+      "bounds": {
+        "x": 9041,
+        "y": 3880,
+        "width": 2112,
+        "height": 5000
+      },
+      "parentId": "527:1103",
+      "childCount": 1
+    },
+    {
+      "id": "564:19527",
+      "name": "Full Preview 4",
+      "type": "FRAME",
+      "bounds": {
+        "x": 6629,
+        "y": 3880,
+        "width": 2112,
+        "height": 10000
+      },
+      "parentId": "527:1103",
+      "childCount": 2
+    },
+    {
+      "id": "564:19526",
+      "name": "Full Preview 3",
+      "type": "FRAME",
+      "bounds": {
+        "x": 4217,
+        "y": 3880,
+        "width": 2112,
+        "height": 5000
+      },
+      "parentId": "527:1103",
+      "childCount": 1
+    },
+    {
+      "id": "564:19525",
+      "name": "Full Preview 2",
+      "type": "FRAME",
+      "bounds": {
+        "x": 1805,
+        "y": 3880,
+        "width": 2112,
+        "height": 5000
+      },
+      "parentId": "527:1103",
+      "childCount": 1
+    },
+    {
+      "id": "564:19524",
+      "name": "Full Preview 1",
+      "type": "FRAME",
+      "bounds": {
+        "x": -607,
+        "y": 3880,
+        "width": 2112,
+        "height": 5000
+      },
+      "parentId": "527:1103",
+      "childCount": 4
+    },
+    {
+      "id": "564:18860",
+      "name": "Preview 8",
+      "type": "FRAME",
+      "bounds": {
+        "x": 13393,
+        "y": 2020,
+        "width": 1800,
+        "height": 1360
+      },
+      "parentId": "527:1103",
+      "childCount": 2
+    },
+    {
+      "id": "564:18854",
+      "name": "Preview 7",
+      "type": "FRAME",
+      "bounds": {
+        "x": 11393,
+        "y": 2020,
+        "width": 1800,
+        "height": 1360
+      },
+      "parentId": "527:1103",
+      "childCount": 5
+    },
+    {
+      "id": "564:18858",
+      "name": "Preview 6",
+      "type": "FRAME",
+      "bounds": {
+        "x": 9393,
+        "y": 2020,
+        "width": 1800,
+        "height": 1360
+      },
+      "parentId": "527:1103",
+      "childCount": 1
+    },
+    {
+      "id": "564:18857",
+      "name": "Preview 5",
+      "type": "FRAME",
+      "bounds": {
+        "x": 7393,
+        "y": 2020,
+        "width": 1800,
+        "height": 1360
+      },
+      "parentId": "527:1103",
+      "childCount": 1
+    },
+    {
+      "id": "564:18856",
+      "name": "Preview 4",
+      "type": "FRAME",
+      "bounds": {
+        "x": 5393,
+        "y": 2020,
+        "width": 1800,
+        "height": 1360
+      },
+      "parentId": "527:1103",
+      "childCount": 1
+    },
+    {
+      "id": "564:18855",
+      "name": "Preview 3",
+      "type": "FRAME",
+      "bounds": {
+        "x": 3393,
+        "y": 2020,
+        "width": 1800,
+        "height": 1360
+      },
+      "parentId": "527:1103",
+      "childCount": 1
+    },
+    {
+      "id": "564:18859",
+      "name": "Preview 2",
+      "type": "FRAME",
+      "bounds": {
+        "x": 1393,
+        "y": 2020,
+        "width": 1800,
+        "height": 1360
+      },
+      "parentId": "527:1103",
+      "childCount": 1
+    },
+    {
+      "id": "564:18853",
+      "name": "Preview 1",
+      "type": "FRAME",
+      "bounds": {
+        "x": -607,
+        "y": 2020,
+        "width": 1800,
+        "height": 1360
+      },
+      "parentId": "527:1103",
+      "childCount": 2
+    },
+    {
+      "id": "564:18621",
+      "name": "Hero Images",
+      "type": "FRAME",
+      "bounds": {
+        "x": -607,
+        "y": 920,
+        "width": 1400,
+        "height": 600
+      },
+      "parentId": "527:1103",
+      "childCount": 4
+    },
+    {
+      "id": "564:18592",
+      "name": "Product Card Image",
+      "type": "FRAME",
+      "bounds": {
+        "x": -607,
+        "y": -420,
+        "width": 1208,
+        "height": 840
+      },
+      "parentId": "527:1103",
+      "childCount": 2
+    },
+    {
+      "id": "566:19190",
+      "name": "Thumbnails",
+      "type": "FRAME",
+      "bounds": {
+        "x": -607,
+        "y": -1880,
+        "width": 1600,
+        "height": 960
+      },
+      "parentId": "527:1103",
+      "childCount": 2
+    }
+  ],
+  "total": 18,
+  "hasMore": false
+}

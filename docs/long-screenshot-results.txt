@@ -1,0 +1,3 @@
+00:00 +0: loading C:/Users/liuyu/Desktop/OsseaNFTMarketplace/tool/capture_long_screenshots.dart
+00:00 +0: export full scroll content in both themes
+00:11 +1: All tests passed!

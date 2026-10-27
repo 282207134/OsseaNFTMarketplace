@@ -1,0 +1,223 @@
+{
+  "document": "Ossea - NFT Marketplace App UI Kit",
+  "platform": "Pixso China",
+  "font": "Urbanist",
+  "assets": [
+    {
+      "file": "assets/images/logo.png",
+      "nodeId": "I1534:23754;531:2611"
+    },
+    {
+      "file": "assets/images/category-art.png",
+      "nodeId": "I1534:23757;1528:33166"
+    },
+    {
+      "file": "assets/images/category-collectibles.png",
+      "nodeId": "I1534:23758;1528:33166"
+    },
+    {
+      "file": "assets/images/category-domains.png",
+      "nodeId": "I1534:23759;1528:33166"
+    },
+    {
+      "file": "assets/images/drop-human.png",
+      "nodeId": "I1534:23764;1528:33173"
+    },
+    {
+      "file": "assets/images/drop-horror.png",
+      "nodeId": "I1534:23765;1528:33173"
+    },
+    {
+      "file": "assets/images/collection-zombie.png",
+      "nodeId": "I1534:23771;1528:33230"
+    },
+    {
+      "file": "assets/images/avatar-zombie.png",
+      "nodeId": "I1534:23771;1528:33231"
+    },
+    {
+      "file": "assets/images/collection-surface.png",
+      "nodeId": "I1534:23772;1528:33230"
+    },
+    {
+      "file": "assets/images/avatar-surface.png",
+      "nodeId": "I1534:23772;1528:33231"
+    },
+    {
+      "file": "assets/images/nft-main.png",
+      "nodeId": "1543:27944"
+    },
+    {
+      "file": "assets/images/creator-cover.png",
+      "nodeId": "I1542:25702;1536:19818"
+    },
+    {
+      "file": "assets/images/creator-avatar.png",
+      "nodeId": "I1542:25702;1536:19819"
+    },
+    {
+      "file": "assets/images/profile-cover.png",
+      "nodeId": "I1546:24247;1536:19818"
+    },
+    {
+      "file": "assets/images/profile-avatar.png",
+      "nodeId": "I1546:24247;1536:19819"
+    },
+    {
+      "file": "assets/images/rocket.png",
+      "nodeId": "1527:23102"
+    },
+    {
+      "file": "assets/images/wallet.png",
+      "nodeId": "1528:23393"
+    },
+    {
+      "file": "assets/images/collection-0.png",
+      "nodeId": "I1546:28719;1528:33230"
+    },
+    {
+      "file": "assets/images/collection-1.png",
+      "nodeId": "I1546:28718;1528:33230"
+    },
+    {
+      "file": "assets/images/collection-2.png",
+      "nodeId": "I1546:28672;1528:33230"
+    },
+    {
+      "file": "assets/images/collection-3.png",
+      "nodeId": "I1546:28673;1528:33230"
+    },
+    {
+      "file": "assets/images/collection-4.png",
+      "nodeId": "I1546:28675;1528:33230"
+    },
+    {
+      "file": "assets/images/collection-5.png",
+      "nodeId": "I1546:28676;1528:33230"
+    },
+    {
+      "file": "assets/images/collection-6.png",
+      "nodeId": "I1546:28725;1528:33230"
+    },
+    {
+      "file": "assets/images/collection-7.png",
+      "nodeId": "I1546:28724;1528:33230"
+    },
+    {
+      "file": "assets/images/avatar-0.png",
+      "nodeId": "I1546:28719;1528:33231"
+    },
+    {
+      "file": "assets/images/avatar-1.png",
+      "nodeId": "I1546:28718;1528:33231"
+    },
+    {
+      "file": "assets/images/avatar-2.png",
+      "nodeId": "I1546:28672;1528:33231"
+    },
+    {
+      "file": "assets/images/avatar-3.png",
+      "nodeId": "I1546:28673;1528:33231"
+    },
+    {
+      "file": "assets/images/avatar-4.png",
+      "nodeId": "I1546:28675;1528:33231"
+    },
+    {
+      "file": "assets/images/avatar-5.png",
+      "nodeId": "I1546:28676;1528:33231"
+    },
+    {
+      "file": "assets/images/avatar-6.png",
+      "nodeId": "I1546:28725;1528:33231"
+    },
+    {
+      "file": "assets/images/avatar-7.png",
+      "nodeId": "I1546:28724;1528:33231"
+    },
+    {
+      "file": "assets/images/wallet-0.png",
+      "nodeId": "1528:23399"
+    },
+    {
+      "file": "assets/images/wallet-1.png",
+      "nodeId": "1528:23404"
+    },
+    {
+      "file": "assets/images/wallet-2.png",
+      "nodeId": "1528:23408"
+    },
+    {
+      "file": "assets/images/wallet-3.png",
+      "nodeId": "1528:23412"
+    },
+    {
+      "file": "assets/images/wallet-4.png",
+      "nodeId": "1528:23416"
+    },
+    {
+      "file": "assets/images/discover-2.png",
+      "nodeId": "I1537:21030;1528:33230"
+    },
+    {
+      "file": "assets/images/discover-3.png",
+      "nodeId": "I1537:21031;1528:33230"
+    },
+    {
+      "file": "assets/images/cat-1.png",
+      "nodeId": "I1545:36019;1531:23328"
+    },
+    {
+      "file": "assets/images/cat-2.png",
+      "nodeId": "I1545:36395;1531:23328"
+    },
+    {
+      "file": "assets/images/cat-3.png",
+      "nodeId": "I1545:36485;1531:23328"
+    },
+    {
+      "file": "assets/images/cat-4.png",
+      "nodeId": "I1545:36484;1531:23328"
+    },
+    {
+      "file": "assets/images/cat-5.png",
+      "nodeId": "I1545:36543;1531:23328"
+    },
+    {
+      "file": "assets/images/cat-6.png",
+      "nodeId": "I1545:36544;1531:23328"
+    },
+    {
+      "file": "assets/images/cat-7.png",
+      "nodeId": "I1545:36426;1531:23328"
+    },
+    {
+      "file": "assets/images/cat-8.png",
+      "nodeId": "I1545:36425;1531:23328"
+    },
+    {
+      "file": "assets/images/rank-0.png",
+      "nodeId": "I1541:30256;1532:23311"
+    },
+    {
+      "file": "assets/images/rank-1.png",
+      "nodeId": "I1541:30305;1532:23311"
+    },
+    {
+      "file": "assets/images/rank-2.png",
+      "nodeId": "I1541:30332;1532:23311"
+    },
+    {
+      "file": "assets/images/rank-3.png",
+      "nodeId": "I1541:30359;1532:23311"
+    },
+    {
+      "file": "assets/images/rank-4.png",
+      "nodeId": "I1541:30386;1532:23311"
+    },
+    {
+      "file": "assets/images/rank-5.png",
+      "nodeId": "I1541:30413;1532:23311"
+    }
+  ]
+}

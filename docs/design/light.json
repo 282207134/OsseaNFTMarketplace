@@ -1,0 +1,1228 @@
+{
+  "nodes": [
+    {
+      "id": "1548:25559",
+      "name": "81_Light_logout modal",
+      "type": "FRAME",
+      "bounds": {
+        "x": 14221,
+        "y": 18262,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 5
+    },
+    {
+      "id": "1548:23923",
+      "name": "80_Light_settings, invite friends",
+      "type": "FRAME",
+      "bounds": {
+        "x": 13693,
+        "y": 18262,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1548:23903",
+      "name": "79_Light_settings, help center",
+      "type": "FRAME",
+      "bounds": {
+        "x": 13165,
+        "y": 18262,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1548:23863",
+      "name": "78_Light_settings, language",
+      "type": "FRAME",
+      "bounds": {
+        "x": 12637,
+        "y": 18262,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1548:23842",
+      "name": "77_Light_settings, security",
+      "type": "FRAME",
+      "bounds": {
+        "x": 12109,
+        "y": 18262,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1548:23809",
+      "name": "76_Light_settings, notification",
+      "type": "FRAME",
+      "bounds": {
+        "x": 11581,
+        "y": 18262,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1548:23577",
+      "name": "75_Light_settings, e-wallet",
+      "type": "FRAME",
+      "bounds": {
+        "x": 11053,
+        "y": 18262,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1548:23309",
+      "name": "74_Light_settings",
+      "type": "FRAME",
+      "bounds": {
+        "x": 9997,
+        "y": 18262,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1546:28787",
+      "name": "73_Light_watchlist",
+      "type": "FRAME",
+      "bounds": {
+        "x": 13165,
+        "y": 14662,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1548:23115",
+      "name": "72_Light_my collections 2",
+      "type": "FRAME",
+      "bounds": {
+        "x": 12637,
+        "y": 14662,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1548:25765",
+      "name": "71_Light_create a collection filled form fit page",
+      "type": "FRAME",
+      "bounds": {
+        "x": 12109,
+        "y": 14662,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1548:22752",
+      "name": "70_Light_create a collection filled form full page",
+      "type": "FRAME",
+      "bounds": {
+        "x": 11581,
+        "y": 14662,
+        "width": 428,
+        "height": 3400
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1547:22303",
+      "name": "69_Light_create a collection blank form full page",
+      "type": "FRAME",
+      "bounds": {
+        "x": 11053,
+        "y": 14662,
+        "width": 428,
+        "height": 2930
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1546:28503",
+      "name": "68_Light_my collections",
+      "type": "FRAME",
+      "bounds": {
+        "x": 10525,
+        "y": 14662,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1546:28069",
+      "name": "67_Light_my wallet",
+      "type": "FRAME",
+      "bounds": {
+        "x": 9997,
+        "y": 14662,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1546:25937",
+      "name": "66_Light_more",
+      "type": "FRAME",
+      "bounds": {
+        "x": 8941,
+        "y": 14662,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1546:25931",
+      "name": "Elements/Marker Navigation",
+      "type": "INSTANCE",
+      "bounds": {
+        "x": 8941,
+        "y": 14310,
+        "width": 731,
+        "height": 152
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1548:26011",
+      "name": "Group",
+      "type": "GROUP",
+      "bounds": {
+        "x": 8982,
+        "y": 14142,
+        "width": 2034,
+        "height": 4592
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1546:25001",
+      "name": "65_Light_profile fit page, more option menu",
+      "type": "FRAME",
+      "bounds": {
+        "x": 12637,
+        "y": 12110,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 4
+    },
+    {
+      "id": "1546:24685",
+      "name": "64_Light_profile fit page, share",
+      "type": "FRAME",
+      "bounds": {
+        "x": 12109,
+        "y": 12110,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 5
+    },
+    {
+      "id": "1546:24241",
+      "name": "63_Light_profile fit page, collected",
+      "type": "FRAME",
+      "bounds": {
+        "x": 11581,
+        "y": 12110,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1546:22055",
+      "name": "62_Light_profile full page, purchased NFT",
+      "type": "FRAME",
+      "bounds": {
+        "x": 11053,
+        "y": 12110,
+        "width": 428,
+        "height": 2000
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1546:20101",
+      "name": "61_Light_profile full page, offers made",
+      "type": "FRAME",
+      "bounds": {
+        "x": 10525,
+        "y": 12110,
+        "width": 428,
+        "height": 2000
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1545:37673",
+      "name": "60_Light_profile full page, activity",
+      "type": "FRAME",
+      "bounds": {
+        "x": 9997,
+        "y": 12110,
+        "width": 428,
+        "height": 2000
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1545:36922",
+      "name": "59_Light_profile full page, favorited",
+      "type": "FRAME",
+      "bounds": {
+        "x": 9469,
+        "y": 12110,
+        "width": 428,
+        "height": 2000
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1545:35965",
+      "name": "58_Light_profile full page, collected",
+      "type": "FRAME",
+      "bounds": {
+        "x": 8941,
+        "y": 12110,
+        "width": 428,
+        "height": 2000
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1545:34174",
+      "name": "Elements/Marker Navigation",
+      "type": "INSTANCE",
+      "bounds": {
+        "x": 8941,
+        "y": 11758,
+        "width": 562,
+        "height": 152
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1546:25503",
+      "name": "57_Light_NFT details listed fit page",
+      "type": "FRAME",
+      "bounds": {
+        "x": 13693,
+        "y": 8288,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1545:33378",
+      "name": "56_Light_NFT details listed full page",
+      "type": "FRAME",
+      "bounds": {
+        "x": 13165,
+        "y": 8288,
+        "width": 428,
+        "height": 3120
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1545:33268",
+      "name": "55_Light_listing successful",
+      "type": "FRAME",
+      "bounds": {
+        "x": 12637,
+        "y": 8288,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 5
+    },
+    {
+      "id": "1545:32955",
+      "name": "54_Light_complete listing",
+      "type": "FRAME",
+      "bounds": {
+        "x": 12109,
+        "y": 8288,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1545:31825",
+      "name": "53_Light_listing NFT for sale full page",
+      "type": "FRAME",
+      "bounds": {
+        "x": 11581,
+        "y": 8288,
+        "width": 428,
+        "height": 1600
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1545:31324",
+      "name": "52_Light_NFT details unlisting full page",
+      "type": "FRAME",
+      "bounds": {
+        "x": 11053,
+        "y": 8288,
+        "width": 428,
+        "height": 1900
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1543:31070",
+      "name": "51_Light_create new item filled form fit page",
+      "type": "FRAME",
+      "bounds": {
+        "x": 9997,
+        "y": 8288,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1543:30750",
+      "name": "50_Light_create new item filled form full page",
+      "type": "FRAME",
+      "bounds": {
+        "x": 9469,
+        "y": 8288,
+        "width": 428,
+        "height": 3270
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1543:29940",
+      "name": "49_Light_create new item blank form full page",
+      "type": "FRAME",
+      "bounds": {
+        "x": 8941,
+        "y": 8288,
+        "width": 428,
+        "height": 2320
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1543:29934",
+      "name": "Elements/Marker Navigation",
+      "type": "INSTANCE",
+      "bounds": {
+        "x": 8941,
+        "y": 7936,
+        "width": 1065,
+        "height": 152
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1543:29814",
+      "name": "48_Light_purchase NFT successful",
+      "type": "FRAME",
+      "bounds": {
+        "x": 15805,
+        "y": 5836,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 5
+    },
+    {
+      "id": "1543:29594",
+      "name": "47_Light_complete purchase",
+      "type": "FRAME",
+      "bounds": {
+        "x": 15277,
+        "y": 5836,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1543:29474",
+      "name": "46_Light_buy now",
+      "type": "FRAME",
+      "bounds": {
+        "x": 14749,
+        "y": 5836,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1543:29365",
+      "name": "45_Light_make offer NFT successful",
+      "type": "FRAME",
+      "bounds": {
+        "x": 16861,
+        "y": 4496,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 5
+    },
+    {
+      "id": "1543:29120",
+      "name": "44_Light_confirm offer",
+      "type": "FRAME",
+      "bounds": {
+        "x": 16333,
+        "y": 4496,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1543:29014",
+      "name": "43_Light_approve currency fit page",
+      "type": "FRAME",
+      "bounds": {
+        "x": 15805,
+        "y": 4496,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1543:28597",
+      "name": "42_Light_approve currency full page",
+      "type": "FRAME",
+      "bounds": {
+        "x": 15277,
+        "y": 4496,
+        "width": 428,
+        "height": 1140
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1543:28376",
+      "name": "41_Light_make an offer",
+      "type": "FRAME",
+      "bounds": {
+        "x": 14749,
+        "y": 4496,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1543:27937",
+      "name": "40_Light_NFT details fit page",
+      "type": "FRAME",
+      "bounds": {
+        "x": 13693,
+        "y": 4496,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1543:26853",
+      "name": "39_Light_NFT details full page, item activity",
+      "type": "FRAME",
+      "bounds": {
+        "x": 13165,
+        "y": 4496,
+        "width": 428,
+        "height": 3000
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1543:26225",
+      "name": "38_Light_NFT details full page, listings",
+      "type": "FRAME",
+      "bounds": {
+        "x": 12637,
+        "y": 4496,
+        "width": 428,
+        "height": 2200
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1543:24858",
+      "name": "37_Light_NFT details full page, offers",
+      "type": "FRAME",
+      "bounds": {
+        "x": 12109,
+        "y": 4496,
+        "width": 428,
+        "height": 3020
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1542:26119",
+      "name": "36_Light_NFT details full page, details",
+      "type": "FRAME",
+      "bounds": {
+        "x": 11581,
+        "y": 4496,
+        "width": 428,
+        "height": 3240
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1542:25696",
+      "name": "35_Light_creator details fit page, items",
+      "type": "FRAME",
+      "bounds": {
+        "x": 10525,
+        "y": 4496,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1548:26012",
+      "name": "Group",
+      "type": "GROUP",
+      "bounds": {
+        "x": 10462,
+        "y": 4928,
+        "width": 4246,
+        "height": 3838
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1549:35053",
+      "name": "Group",
+      "type": "GROUP",
+      "bounds": {
+        "x": 10739,
+        "y": 5464,
+        "width": 6341,
+        "height": 8912
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1541:38012",
+      "name": "34_Light_creator details full page, items",
+      "type": "FRAME",
+      "bounds": {
+        "x": 9997,
+        "y": 4496,
+        "width": 428,
+        "height": 2000
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1542:25297",
+      "name": "33_Light_creator details fit page, activity",
+      "type": "FRAME",
+      "bounds": {
+        "x": 9469,
+        "y": 4496,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1542:23973",
+      "name": "32_Light_creator details full page, activity",
+      "type": "FRAME",
+      "bounds": {
+        "x": 8941,
+        "y": 4496,
+        "width": 428,
+        "height": 2000
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1541:38006",
+      "name": "Elements/Marker Navigation",
+      "type": "INSTANCE",
+      "bounds": {
+        "x": 8941,
+        "y": 4144,
+        "width": 1360,
+        "height": 152
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1541:37719",
+      "name": "31_Light_statistics, activity, filter",
+      "type": "FRAME",
+      "bounds": {
+        "x": 9997,
+        "y": 3018,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 5
+    },
+    {
+      "id": "1541:35384",
+      "name": "30_Light_statistics, activity, show more",
+      "type": "FRAME",
+      "bounds": {
+        "x": 9469,
+        "y": 3018,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1541:32294",
+      "name": "29_Light_statistics, activity",
+      "type": "FRAME",
+      "bounds": {
+        "x": 8941,
+        "y": 3018,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1541:31999",
+      "name": "28_Light_statistics, rankings, filter time",
+      "type": "FRAME",
+      "bounds": {
+        "x": 11053,
+        "y": 1892,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 5
+    },
+    {
+      "id": "1541:31574",
+      "name": "27_Light_statistics, rankings, filter chains",
+      "type": "FRAME",
+      "bounds": {
+        "x": 10525,
+        "y": 1892,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 5
+    },
+    {
+      "id": "1541:31232",
+      "name": "26_Light_statistics, rankings, filter categories",
+      "type": "FRAME",
+      "bounds": {
+        "x": 9997,
+        "y": 1892,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 5
+    },
+    {
+      "id": "1541:30806",
+      "name": "25_Light_statistics, rankings, show more",
+      "type": "FRAME",
+      "bounds": {
+        "x": 9469,
+        "y": 1892,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1541:29900",
+      "name": "24_Light_statistics, rankings",
+      "type": "FRAME",
+      "bounds": {
+        "x": 8941,
+        "y": 1892,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1539:29890",
+      "name": "Elements/Marker Navigation",
+      "type": "INSTANCE",
+      "bounds": {
+        "x": 8941,
+        "y": 1540,
+        "width": 916,
+        "height": 152
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1539:29616",
+      "name": "23_Light_sort option",
+      "type": "FRAME",
+      "bounds": {
+        "x": 14749,
+        "y": -1090,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1539:29329",
+      "name": "22_Light_filter fit page",
+      "type": "FRAME",
+      "bounds": {
+        "x": 14221,
+        "y": -1090,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1539:24167",
+      "name": "21_Light_filter full page",
+      "type": "FRAME",
+      "bounds": {
+        "x": 13693,
+        "y": -1090,
+        "width": 428,
+        "height": 2430
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1538:23810",
+      "name": "20_Light_search results show all items",
+      "type": "FRAME",
+      "bounds": {
+        "x": 13165,
+        "y": -1090,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1538:21473",
+      "name": "19_Light_search results creators",
+      "type": "FRAME",
+      "bounds": {
+        "x": 12637,
+        "y": -1090,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1538:21299",
+      "name": "18_Light_search results collections",
+      "type": "FRAME",
+      "bounds": {
+        "x": 12109,
+        "y": -1090,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1538:21158",
+      "name": "17_Light_search not found",
+      "type": "FRAME",
+      "bounds": {
+        "x": 11581,
+        "y": -1090,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1537:20858",
+      "name": "16_Light_search, loading",
+      "type": "FRAME",
+      "bounds": {
+        "x": 11053,
+        "y": -1090,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1537:20693",
+      "name": "15_Light_search",
+      "type": "FRAME",
+      "bounds": {
+        "x": 10525,
+        "y": -1090,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1535:18982",
+      "name": "Group",
+      "type": "GROUP",
+      "bounds": {
+        "x": 9938,
+        "y": -1773,
+        "width": 546,
+        "height": 1152
+      },
+      "parentId": "727:25421",
+      "childCount": 4
+    },
+    {
+      "id": "1537:20494",
+      "name": "14_Light_trending collections",
+      "type": "FRAME",
+      "bounds": {
+        "x": 13693,
+        "y": -2216,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1537:20236",
+      "name": "13_Light_notable drops",
+      "type": "FRAME",
+      "bounds": {
+        "x": 13165,
+        "y": -2216,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1537:19910",
+      "name": "12_Light_popular",
+      "type": "FRAME",
+      "bounds": {
+        "x": 12637,
+        "y": -2216,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1536:19559",
+      "name": "11_Light_art",
+      "type": "FRAME",
+      "bounds": {
+        "x": 12109,
+        "y": -2216,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1536:19203",
+      "name": "10_Light_notification, NFTs",
+      "type": "FRAME",
+      "bounds": {
+        "x": 11581,
+        "y": -2216,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1535:18987",
+      "name": "9_Light_notification, general",
+      "type": "FRAME",
+      "bounds": {
+        "x": 11053,
+        "y": -2216,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1535:19058",
+      "name": "8_Light_notification, general empty",
+      "type": "FRAME",
+      "bounds": {
+        "x": 10525,
+        "y": -2216,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1534:23751",
+      "name": "7_Light_home fit page",
+      "type": "FRAME",
+      "bounds": {
+        "x": 9469,
+        "y": -2216,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1528:26369",
+      "name": "6_Light_home full page",
+      "type": "FRAME",
+      "bounds": {
+        "x": 8941,
+        "y": -2216,
+        "width": 428,
+        "height": 1950
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1528:26846",
+      "name": "Elements/Marker Navigation",
+      "type": "INSTANCE",
+      "bounds": {
+        "x": 8941,
+        "y": -2568,
+        "width": 704,
+        "height": 152
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1528:23526",
+      "name": "5_Light_login to wallet using eth address",
+      "type": "FRAME",
+      "bounds": {
+        "x": 11053,
+        "y": -4906,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 4
+    },
+    {
+      "id": "1528:23388",
+      "name": "4_Light_login to wallet fit page",
+      "type": "FRAME",
+      "bounds": {
+        "x": 10525,
+        "y": -4906,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1528:23115",
+      "name": "3_Light_login to wallet full page",
+      "type": "FRAME",
+      "bounds": {
+        "x": 9997,
+        "y": -4906,
+        "width": 428,
+        "height": 2138
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "1527:23021",
+      "name": "2_Light_walkthrough",
+      "type": "FRAME",
+      "bounds": {
+        "x": 9469,
+        "y": -4906,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "1228:18590",
+      "name": "1_Light_splash screen",
+      "type": "FRAME",
+      "bounds": {
+        "x": 8941,
+        "y": -4906,
+        "width": 428,
+        "height": 926
+      },
+      "parentId": "727:25421",
+      "childCount": 3
+    },
+    {
+      "id": "727:26030",
+      "name": "Elements/Marker Navigation",
+      "type": "INSTANCE",
+      "bounds": {
+        "x": 8941,
+        "y": -5258,
+        "width": 512,
+        "height": 152
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    },
+    {
+      "id": "727:26031",
+      "name": "LIGHT VERSION",
+      "type": "TEXT",
+      "bounds": {
+        "x": 8941,
+        "y": -5984,
+        "width": 2939,
+        "height": 440
+      },
+      "parentId": "727:25421",
+      "previewCharacters": "LIGHT VERSION"
+    },
+    {
+      "id": "727:26032",
+      "name": "Marker",
+      "type": "FRAME",
+      "bounds": {
+        "x": 8941,
+        "y": -6850,
+        "width": 1025,
+        "height": 580
+      },
+      "parentId": "727:25421",
+      "childCount": 2
+    }
+  ],
+  "total": 94,
+  "hasMore": false
+}

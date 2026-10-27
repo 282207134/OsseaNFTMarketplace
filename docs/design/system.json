@@ -1,0 +1,84 @@
+{
+  "nodes": [
+    {
+      "id": "430:2166",
+      "name": "Colors",
+      "type": "FRAME",
+      "bounds": {
+        "x": -1765,
+        "y": -161,
+        "width": 1700,
+        "height": 4966
+      },
+      "parentId": "3:2",
+      "childCount": 2
+    },
+    {
+      "id": "430:2167",
+      "name": "Typography",
+      "type": "FRAME",
+      "bounds": {
+        "x": 235,
+        "y": -161,
+        "width": 1600,
+        "height": 2093
+      },
+      "parentId": "3:2",
+      "childCount": 2
+    },
+    {
+      "id": "430:2959",
+      "name": "Iconography",
+      "type": "FRAME",
+      "bounds": {
+        "x": 2135,
+        "y": -161,
+        "width": 1968,
+        "height": 4842
+      },
+      "parentId": "3:2",
+      "childCount": 2
+    },
+    {
+      "id": "432:3907",
+      "name": "Components & Variants",
+      "type": "FRAME",
+      "bounds": {
+        "x": 4403,
+        "y": -161,
+        "width": 1715,
+        "height": 6424
+      },
+      "parentId": "3:2",
+      "childCount": 2
+    },
+    {
+      "id": "560:15288",
+      "name": "Elements",
+      "type": "FRAME",
+      "bounds": {
+        "x": 6418,
+        "y": -161,
+        "width": 1296,
+        "height": 6236
+      },
+      "parentId": "3:2",
+      "childCount": 2
+    },
+    {
+      "id": "1140:18595",
+      "name": "My Profile",
+      "type": "FRAME",
+      "bounds": {
+        "x": 8014,
+        "y": -161,
+        "width": 1127,
+        "height": 1316
+      },
+      "parentId": "3:2",
+      "childCount": 5
+    }
+  ],
+  "total": 6,
+  "hasMore": false
+}

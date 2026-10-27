@@ -1,0 +1,13 @@
+00:00 +0: loading C:/Users/liuyu/Desktop/OsseaNFTMarketplace/test/market_store_test.dart
+00:00 +0: C:/Users/liuyu/Desktop/OsseaNFTMarketplace/test/market_store_test.dart: purchase is idempotent and reduces the demo balance once
+00:00 +1: C:/Users/liuyu/Desktop/OsseaNFTMarketplace/test/market_store_test.dart: marketplace activity and preferences survive reload
+00:00 +2: C:/Users/liuyu/Desktop/OsseaNFTMarketplace/test/screen_test.dart: (setUpAll)
+00:00 +2: C:/Users/liuyu/Desktop/OsseaNFTMarketplace/test/screen_test.dart: created NFT identity and listing price survive the full listing flow
+00:01 +3: C:/Users/liuyu/Desktop/OsseaNFTMarketplace/test/screen_test.dart: all 81 light screens render without exceptions
+00:05 +4: C:/Users/liuyu/Desktop/OsseaNFTMarketplace/test/screen_test.dart: all 81 dark screens render without exceptions
+00:09 +5: C:/Users/liuyu/Desktop/OsseaNFTMarketplace/test/screen_test.dart: compact phone core pages render
+00:10 +6: C:/Users/liuyu/Desktop/OsseaNFTMarketplace/test/screen_test.dart: search responds to text and handles empty results
+00:10 +7: C:/Users/liuyu/Desktop/OsseaNFTMarketplace/test/screen_test.dart: offer validation and complete demo signature flow
+00:10 +8: C:/Users/liuyu/Desktop/OsseaNFTMarketplace/test/screen_test.dart: purchase completes and appears in local portfolio
+00:10 +9: C:/Users/liuyu/Desktop/OsseaNFTMarketplace/test/screen_test.dart: (tearDownAll)
+00:10 +9: All tests passed!

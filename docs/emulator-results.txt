@@ -1,0 +1,387 @@
+Resolving dependencies...
+Downloading packages...
+  cross_file 0.3.5+5 (0.4.0 available)
+  dbus 0.7.15 (0.8.0 available)
+  file_picker 10.3.10 (13.3.0 available)
+  material_color_utilities 0.13.0 (0.13.1 available)
+  meta 1.18.3 (1.19.0 available)
+  petitparser 7.0.2 (7.1.0 available)
+  shared_preferences_foundation 2.5.7 (2.6.1 available)
+  test_api 0.7.12 (0.7.15 available)
+  vector_math 2.4.0 (2.4.4 available)
+  win32 5.15.0 (6.4.0 available)
+  xml 7.0.1 (7.1.0 available)
+Got dependencies!
+11 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+Running Gradle task 'assembleDebug'...                          
+WARNING: Your app uses the following plugins that apply Kotlin Gradle Plugin (KGP): file_picker
+Future versions of Flutter will fail to build if your app uses plugins that apply KGP.
+
+Please check the changelogs of these plugins and upgrade to a version that supports Built-in Kotlin.
+If no such version exists, report the issue to the plugin. If necessary, here is a guide on filing
+an issue against a plugin: https://docs.flutter.dev/release/breaking-changes/migrate-to-built-in-kotlin/for-app-developers#report-incompatible-kotlin-gradle-plugin-usage-to-plugin-authors
+
+If you are a plugin author, please migrate your plugin to Built-in Kotlin using this guide: https://docs.flutter.dev/release/breaking-changes/migrate-to-built-in-kotlin/for-plugin-authors
+Running Gradle task 'assembleDebug'...                             33.4s
+√ Built build\app\outputs\flutter-apk\app-debug.apk
+Installing build\app\outputs\flutter-apk\app-debug.apk...        2,012ms
+I/Choreographer( 4799): Skipped 34 frames!  The application may be doing too much work on its main thread.
+D/FlutterJNI( 4799): Sending viewport metrics to the engine.
+VMServiceFlutterDriver: Connecting to Flutter application at http://127.0.0.1:56584/JID8Z6_4Bao=/
+VMServiceFlutterDriver: Isolate found with number: 574948824674991
+VMServiceFlutterDriver: Isolate 574948824674991 is runnable.
+VMServiceFlutterDriver: Isolate is paused at start.
+VMServiceFlutterDriver: Attempting to resume isolate
+I/flutter ( 4799): 00:00 +0: capture every Pixso screen in both themes
+VMServiceFlutterDriver: Connected to Flutter application.
+D/ProfileInstaller( 4799): Installing profile for com.ossea.ossea
+D/FlutterJNI( 4799): Sending viewport metrics to the engine.
+D/EGL_emulation( 4799): app_time_stats: avg=134.81ms min=104.11ms max=173.48ms count=9
+D/EGL_emulation( 4799): app_time_stats: avg=1377.26ms min=1220.44ms max=1534.09ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=163.88ms min=108.41ms max=403.04ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=846.92ms min=812.79ms max=881.05ms count=2
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+VMServiceFlutterDriver: request_data message is taking a long time to complete...
+D/EGL_emulation( 4799): app_time_stats: avg=215.39ms min=104.16ms max=416.19ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=155.73ms min=109.34ms max=400.31ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=866.82ms min=866.24ms max=867.41ms count=2
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=172.20ms min=114.46ms max=432.34ms count=6
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=213.57ms min=117.06ms max=588.47ms count=5
+D/EGL_emulation( 4799): app_time_stats: avg=991.97ms min=918.12ms max=1065.83ms count=2
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=203.29ms min=110.56ms max=544.24ms count=5
+D/EGL_emulation( 4799): app_time_stats: avg=1015.74ms min=1015.74ms max=1015.74ms count=1
+D/EGL_emulation( 4799): app_time_stats: avg=190.86ms min=109.46ms max=403.67ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=841.76ms min=817.97ms max=865.55ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=156.89ms min=110.29ms max=390.16ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=209.84ms min=112.83ms max=558.02ms count=5
+D/EGL_emulation( 4799): app_time_stats: avg=900.38ms min=866.62ms max=934.14ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=228.46ms min=114.22ms max=634.44ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=974.33ms min=865.37ms max=1083.29ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=201.93ms min=113.46ms max=545.34ms count=5
+D/EGL_emulation( 4799): app_time_stats: avg=1033.04ms min=1033.04ms max=1033.04ms count=1
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=203.31ms min=114.52ms max=527.79ms count=5
+D/EGL_emulation( 4799): app_time_stats: avg=1283.98ms min=1283.98ms max=1283.98ms count=1
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=182.41ms min=109.77ms max=524.72ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=151.42ms min=111.16ms max=357.91ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=907.85ms min=833.25ms max=982.45ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=183.85ms min=108.21ms max=515.56ms count=6
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=908.92ms min=832.77ms max=985.07ms count=2
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=198.97ms min=112.48ms max=441.47ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=157.78ms min=117.13ms max=362.48ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=899.74ms min=867.07ms max=932.42ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=149.82ms min=113.54ms max=351.74ms count=7
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=824.74ms min=800.14ms max=849.33ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=202.75ms min=110.22ms max=374.31ms count=6
+W/WindowOnBackDispatcher( 4799): OnBackInvokedCallback is not enabled for the application.
+W/WindowOnBackDispatcher( 4799): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+D/EGL_emulation( 4799): app_time_stats: avg=157.47ms min=112.02ms max=363.92ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=850.26ms min=832.95ms max=867.58ms count=2
+W/WindowOnBackDispatcher( 4799): OnBackInvokedCallback is not enabled for the application.
+W/WindowOnBackDispatcher( 4799): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+D/EGL_emulation( 4799): app_time_stats: avg=152.47ms min=113.97ms max=346.04ms count=7
+W/WindowOnBackDispatcher( 4799): OnBackInvokedCallback is not enabled for the application.
+W/WindowOnBackDispatcher( 4799): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+D/EGL_emulation( 4799): app_time_stats: avg=849.42ms min=849.40ms max=849.45ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=206.48ms min=115.21ms max=377.97ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=155.55ms min=112.35ms max=376.22ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=850.76ms min=834.82ms max=866.70ms count=2
+W/WindowOnBackDispatcher( 4799): OnBackInvokedCallback is not enabled for the application.
+W/WindowOnBackDispatcher( 4799): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+D/EGL_emulation( 4799): app_time_stats: avg=155.19ms min=115.83ms max=361.85ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=840.86ms min=832.54ms max=849.18ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=209.40ms min=111.39ms max=422.38ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=174.45ms min=110.17ms max=464.66ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=908.41ms min=883.11ms max=933.71ms count=2
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=176.46ms min=111.55ms max=463.43ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=166.70ms min=113.68ms max=410.44ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=916.25ms min=882.36ms max=950.14ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=169.46ms min=114.13ms max=434.27ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=900.04ms min=899.61ms max=900.46ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=222.80ms min=111.12ms max=441.29ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=169.12ms min=112.66ms max=434.96ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=900.08ms min=899.57ms max=900.59ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=172.36ms min=111.85ms max=441.00ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=149.34ms min=112.09ms max=348.13ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=866.70ms min=817.10ms max=916.31ms count=2
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=194.16ms min=115.06ms max=349.21ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=816.56ms min=815.90ms max=817.22ms count=2
+W/WindowOnBackDispatcher( 4799): OnBackInvokedCallback is not enabled for the application.
+W/WindowOnBackDispatcher( 4799): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+D/EGL_emulation( 4799): app_time_stats: avg=153.40ms min=113.90ms max=345.69ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=153.92ms min=111.81ms max=364.10ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=841.92ms min=833.13ms max=850.72ms count=2
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=194.02ms min=113.14ms max=348.37ms count=6
+W/WindowOnBackDispatcher( 4799): OnBackInvokedCallback is not enabled for the application.
+W/WindowOnBackDispatcher( 4799): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+D/EGL_emulation( 4799): app_time_stats: avg=815.98ms min=815.37ms max=816.60ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=152.65ms min=111.08ms max=368.33ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=147.67ms min=110.27ms max=339.82ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=817.48ms min=802.04ms max=832.92ms count=2
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=195.05ms min=113.00ms max=354.85ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=815.65ms min=815.39ms max=815.92ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=154.21ms min=112.95ms max=380.00ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=147.63ms min=112.15ms max=328.53ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=824.92ms min=800.01ms max=849.83ms count=2
+W/WindowOnBackDispatcher( 4799): OnBackInvokedCallback is not enabled for the application.
+W/WindowOnBackDispatcher( 4799): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=195.11ms min=113.53ms max=346.37ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=817.07ms min=800.34ms max=833.80ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=151.45ms min=112.91ms max=369.25ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=157.48ms min=111.38ms max=403.37ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=849.66ms min=833.84ms max=865.48ms count=2
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=210.59ms min=113.74ms max=397.16ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=866.64ms min=849.15ms max=884.12ms count=2
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=152.46ms min=110.94ms max=374.22ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=154.88ms min=111.66ms max=389.66ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=841.90ms min=832.33ms max=851.46ms count=2
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=218.81ms min=110.65ms max=427.68ms count=6
+W/WindowOnBackDispatcher( 4799): OnBackInvokedCallback is not enabled for the application.
+W/WindowOnBackDispatcher( 4799): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+D/EGL_emulation( 4799): app_time_stats: avg=908.02ms min=898.47ms max=917.57ms count=2
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+W/WindowOnBackDispatcher( 4799): OnBackInvokedCallback is not enabled for the application.
+W/WindowOnBackDispatcher( 4799): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+D/EGL_emulation( 4799): app_time_stats: avg=177.48ms min=115.03ms max=427.25ms count=6
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=155.30ms min=107.85ms max=402.78ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=882.71ms min=865.76ms max=899.65ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=191.41ms min=110.82ms max=392.99ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=842.50ms min=817.69ms max=867.30ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=182.51ms min=111.92ms max=514.69ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=146.92ms min=112.88ms max=330.26ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=891.23ms min=800.80ms max=981.66ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=183.96ms min=114.20ms max=353.38ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=816.12ms min=816.03ms max=816.22ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=184.44ms min=114.59ms max=522.47ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=146.46ms min=106.32ms max=340.63ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=892.35ms min=800.05ms max=984.65ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=183.47ms min=112.86ms max=370.91ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=816.02ms min=799.49ms max=832.55ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=147.12ms min=112.46ms max=332.67ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=147.67ms min=112.48ms max=331.77ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=800.13ms min=800.04ms max=800.23ms count=2
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=196.68ms min=106.57ms max=364.27ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=825.12ms min=816.99ms max=833.24ms count=2
+W/WindowOnBackDispatcher( 4799): OnBackInvokedCallback is not enabled for the application.
+W/WindowOnBackDispatcher( 4799): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+D/EGL_emulation( 4799): app_time_stats: avg=155.63ms min=106.50ms max=384.00ms count=7
+D/FlutterJNI( 4799): Sending viewport metrics to the engine.
+D/EGL_emulation( 4799): app_time_stats: avg=152.25ms min=111.57ms max=324.88ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=1133.25ms min=849.85ms max=1416.65ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=145.29ms min=114.52ms max=320.81ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=154.08ms min=111.75ms max=379.35ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=816.54ms min=783.05ms max=850.02ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=197.40ms min=114.38ms max=398.69ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=867.05ms min=866.34ms max=867.76ms count=2
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=167.78ms min=108.39ms max=416.89ms count=6
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=209.47ms min=109.93ms max=581.85ms count=5
+D/EGL_emulation( 4799): app_time_stats: avg=966.59ms min=883.14ms max=1050.03ms count=2
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=182.56ms min=111.03ms max=523.92ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=147.77ms min=112.84ms max=329.78ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=891.11ms min=798.71ms max=983.50ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=193.56ms min=113.80ms max=361.94ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=817.46ms min=800.85ms max=834.06ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=182.25ms min=110.29ms max=494.75ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=153.91ms min=109.91ms max=380.53ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=907.53ms min=850.01ms max=965.06ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=212.89ms min=113.52ms max=604.00ms count=5
+D/EGL_emulation( 4799): app_time_stats: avg=1066.01ms min=1066.01ms max=1066.01ms count=1
+D/EGL_emulation( 4799): app_time_stats: avg=200.15ms min=112.64ms max=527.74ms count=5
+D/EGL_emulation( 4799): app_time_stats: avg=1000.29ms min=1000.29ms max=1000.29ms count=1
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=183.58ms min=113.49ms max=516.76ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=1349.82ms min=1349.82ms max=1349.82ms count=1
+D/EGL_emulation( 4799): app_time_stats: avg=203.66ms min=107.74ms max=539.54ms count=5
+D/EGL_emulation( 4799): app_time_stats: avg=1000.52ms min=1000.52ms max=1000.52ms count=1
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=146.92ms min=112.62ms max=342.62ms count=7
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=180.82ms min=111.88ms max=495.83ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=882.70ms min=800.81ms max=964.59ms count=2
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=201.98ms min=108.23ms max=397.12ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=841.76ms min=816.44ms max=867.08ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=150.57ms min=112.49ms max=345.31ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=147.61ms min=113.62ms max=327.03ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=808.21ms min=800.06ms max=816.36ms count=2
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=194.83ms min=112.62ms max=371.36ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=816.59ms min=800.52ms max=832.67ms count=2
+W/WindowOnBackDispatcher( 4799): OnBackInvokedCallback is not enabled for the application.
+W/WindowOnBackDispatcher( 4799): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+D/EGL_emulation( 4799): app_time_stats: avg=149.64ms min=111.17ms max=356.27ms count=7
+W/WindowOnBackDispatcher( 4799): OnBackInvokedCallback is not enabled for the application.
+W/WindowOnBackDispatcher( 4799): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+D/EGL_emulation( 4799): app_time_stats: avg=147.46ms min=109.11ms max=337.63ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=809.16ms min=802.18ms max=816.14ms count=2
+W/WindowOnBackDispatcher( 4799): OnBackInvokedCallback is not enabled for the application.
+W/WindowOnBackDispatcher( 4799): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+D/EGL_emulation( 4799): app_time_stats: avg=195.36ms min=109.08ms max=355.55ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=815.82ms min=815.22ms max=816.42ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=151.15ms min=112.72ms max=367.90ms count=7
+W/WindowOnBackDispatcher( 4799): OnBackInvokedCallback is not enabled for the application.
+W/WindowOnBackDispatcher( 4799): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+D/EGL_emulation( 4799): app_time_stats: avg=150.23ms min=107.93ms max=352.76ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=824.88ms min=816.66ms max=833.09ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=201.19ms min=113.73ms max=408.29ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=833.70ms min=800.75ms max=866.65ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=171.14ms min=108.78ms max=450.82ms count=6
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=168.99ms min=111.29ms max=437.11ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=907.87ms min=899.98ms max=915.77ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=157.16ms min=111.55ms max=399.19ms count=7
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=883.61ms min=867.66ms max=899.56ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=221.78ms min=115.30ms max=431.44ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=169.97ms min=115.06ms max=433.81ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=900.01ms min=899.74ms max=900.28ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=169.27ms min=114.98ms max=432.43ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=169.33ms min=111.58ms max=432.22ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=899.73ms min=899.36ms max=900.09ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=180.33ms min=115.07ms max=346.17ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=808.14ms min=800.03ms max=816.26ms count=2
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=150.41ms min=112.55ms max=342.37ms count=7
+W/WindowOnBackDispatcher( 4799): OnBackInvokedCallback is not enabled for the application.
+W/WindowOnBackDispatcher( 4799): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+D/EGL_emulation( 4799): app_time_stats: avg=147.50ms min=111.65ms max=341.23ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=808.14ms min=799.84ms max=816.45ms count=2
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=190.90ms min=110.47ms max=343.13ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=800.10ms min=799.82ms max=800.37ms count=2
+W/WindowOnBackDispatcher( 4799): OnBackInvokedCallback is not enabled for the application.
+W/WindowOnBackDispatcher( 4799): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+D/EGL_emulation( 4799): app_time_stats: avg=150.12ms min=108.48ms max=345.99ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=145.69ms min=106.19ms max=333.84ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=808.22ms min=799.32ms max=817.13ms count=2
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=191.95ms min=111.56ms max=350.82ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=807.93ms min=799.63ms max=816.22ms count=2
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=149.86ms min=112.70ms max=348.22ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=152.16ms min=113.40ms max=367.67ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=825.00ms min=816.60ms max=833.39ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=190.45ms min=109.40ms max=342.86ms count=6
+W/WindowOnBackDispatcher( 4799): OnBackInvokedCallback is not enabled for the application.
+W/WindowOnBackDispatcher( 4799): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+D/EGL_emulation( 4799): app_time_stats: avg=799.91ms min=799.78ms max=800.04ms count=2
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=146.24ms min=112.26ms max=334.71ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=152.35ms min=113.45ms max=364.22ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=817.12ms min=800.08ms max=834.16ms count=2
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=210.90ms min=113.20ms max=412.64ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=866.53ms min=850.86ms max=882.20ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=152.75ms min=111.57ms max=374.69ms count=7
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=152.05ms min=113.54ms max=366.82ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=833.27ms min=833.13ms max=833.40ms count=2
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=210.39ms min=112.57ms max=400.94ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=866.29ms min=865.45ms max=867.13ms count=2
+W/WindowOnBackDispatcher( 4799): OnBackInvokedCallback is not enabled for the application.
+W/WindowOnBackDispatcher( 4799): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+D/EGL_emulation( 4799): app_time_stats: avg=166.72ms min=113.11ms max=400.72ms count=6
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+W/WindowOnBackDispatcher( 4799): OnBackInvokedCallback is not enabled for the application.
+W/WindowOnBackDispatcher( 4799): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+D/EGL_emulation( 4799): app_time_stats: avg=157.51ms min=109.34ms max=394.33ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=874.62ms min=865.66ms max=883.57ms count=2
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=183.62ms min=113.29ms max=370.20ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=816.79ms min=800.21ms max=833.38ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=149.47ms min=112.44ms max=352.98ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=200.10ms min=115.09ms max=528.92ms count=5
+D/EGL_emulation( 4799): app_time_stats: avg=909.16ms min=816.40ms max=1001.92ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=147.71ms min=114.39ms max=325.61ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=799.34ms min=798.14ms max=800.55ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=191.72ms min=108.61ms max=348.01ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=183.48ms min=110.30ms max=522.19ms count=6
+D/EGL_emulation( 4799): app_time_stats: avg=900.06ms min=818.07ms max=982.06ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=147.23ms min=110.33ms max=333.43ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=792.20ms min=785.29ms max=799.10ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=180.72ms min=108.87ms max=364.71ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=147.66ms min=111.37ms max=326.70ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=816.32ms min=800.58ms max=832.05ms count=2
+D/EGL_emulation( 4799): app_time_stats: avg=147.53ms min=113.30ms max=333.35ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=799.32ms min=798.27ms max=800.37ms count=2
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.ossea.ossea( 4799): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4799): app_time_stats: avg=189.17ms min=110.98ms max=338.07ms count=6
+W/WindowOnBackDispatcher( 4799): OnBackInvokedCallback is not enabled for the application.
+W/WindowOnBackDispatcher( 4799): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+D/EGL_emulation( 4799): app_time_stats: avg=152.62ms min=109.12ms max=369.90ms count=7
+D/EGL_emulation( 4799): app_time_stats: avg=816.64ms min=799.84ms max=833.44ms count=2
+I/flutter ( 4799): 02:23 +1: (tearDownAll)
+I/flutter ( 4799): 02:28 +2: All tests passed!
+I/Choreographer( 4799): Skipped 347 frames!  The application may be doing too much work on its main thread.
+D/EGL_emulation( 4799): app_time_stats: avg=6648.20ms min=6648.20ms max=6648.20ms count=1
+I/HWUI    ( 4799): Davey! duration=6543ms; Flags=0, FrameTimelineVsyncId=103934, IntendedVsync=6383711381570, Vsync=6389494714672, InputEventId=0, HandleInputStart=6389564730000, AnimationStart=6389564759300, PerformTraversalsStart=6389564799500, DrawStart=6389688049100, FrameDeadline=6383728048236, FrameInterval=6389503523100, FrameStartTime=16666666, SyncQueued=6389913690700, SyncStart=6389922156200, IssueDrawCommandsStart=6389928166000, SwapBuffers=6390075660000, FrameCompleted=6390263457500, DequeueBufferDuration=10057100, QueueBufferDuration=91504200, GpuCompleted=6390213024900, SwapBuffersCompleted=6390263457500, DisplayPresentTime=0, CommandSubmissionCompleted=6390075660000, 
+All tests passed.
